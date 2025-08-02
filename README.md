@@ -36,4 +36,3 @@ To run:
 5. Connect your phone via USB and build for Android
 6. Insert phone into Google Cardboard viewer and test gaze-based interactions
 
-ok bye.
